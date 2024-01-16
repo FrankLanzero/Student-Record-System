@@ -1,0 +1,79 @@
+GED0001 ~ Specialized English Program 1 ~ 20232024 - 1 ~ TX01 ~ 3 ~ T/F ~ 11:00:00 - 13:00:00 ~ ONLINE ~ 14 ~ 39 ~ 1
+GED0001 ~ Specialized English Program 1 ~ 20232024 - 1 ~ TX02 ~ 3 ~ T/F ~ 11:00:00 - 13:00:00 ~ ONLINE ~ 6 ~ 40 ~ 0
+GED0004 ~ Physical Education 1 ~ 20232024 - 1 ~ TX01 ~ 3 ~ W ~ 13:00:00 - 15:00:00 ~ F301 ~ 16 ~ 39 ~ 1
+GED0004 ~ Physical Education 1 ~ 20232024 - 1 ~ TX02 ~ 3 ~ W ~ 13:00:00 - 15:00:00 ~ F301 ~ 15 ~ 40 ~ 0
+GED0006 ~ Personal and Professional Effectiveness ~ 20232024 - 1 ~ TX01 ~ 2 ~ M/TH ~ 11:00:00 - 13:00:00 ~ F703 ~ 14 ~ 39 ~ 1
+GED0006 ~ Personal and Professional Effectiveness ~ 20232024 - 1 ~ TX02 ~ 2 ~ M/TH ~ 11:00:00 - 13:00:00 ~ F703 ~ 6 ~ 40 ~ 0
+GED0007 ~ Art Appreciation ~ 20232024 - 1 ~ TX01 ~ 3 ~ T/F ~ 07:00:00 - 09:00:00 ~ ONLINE ~ 17 ~ 39 ~ 1
+GED0007 ~ Art Appreciation ~ 20232024 - 1 ~ TX02 ~ 3 ~ T/F ~ 09:00:00 - 11:00:00 ~ ONLINE ~ 17 ~ 40 ~ 0
+NSTP1 ~ Civil Welfare Training Service 1 ~ 20232024 - 1 ~ TX01 ~ 0 ~ TH ~ 07:00:00 - 11:00:00 ~ E606 ~ 14 ~ 39 ~ 1
+NSTP1 ~ Civil Welfare Training Service 1 ~ 20232024 - 1 ~ TX02 ~ 0 ~ TH ~ 07:00:00 - 11:00:00 ~ E606 ~ 19 ~ 40 ~ 0
+COE0001 ~ Engineering Mathematics 1 ~ 20232024 - 1 ~ TX01 ~ 3 ~ M/TH ~ 17:00:00 - 19:00:00 ~ F603 ~ 12 ~ 39 ~ 1
+COE0001 ~ Engineering Mathematics 1 ~ 20232024 - 1 ~ TX02 ~ 3 ~ M/TH ~ 15:00:00 - 17:00:00 ~ F604 ~ 13 ~ 40 ~ 0
+COE0003 ~ Engineering Mathematics 2 ~ 20232024 - 1 ~ TX01 ~ 3 ~ T/F ~ 13:00:00 - 15:00:00 ~ F603 ~ 12 ~ 39 ~ 1
+COE0003 ~ Engineering Mathematics 2 ~ 20232024 - 1 ~ TX02 ~ 3 ~ M/TH ~ 17:00:00 - 19:00:00 ~ F604 ~ 13 ~ 40 ~ 0
+COE0005 ~ Chemistry for Engineers 1 ~ 20232024 - 1 ~ TX01 ~ 3 ~ W/S ~ 11:00:00 - 13:00:00 ~ F701 ~ 13 ~ 40 ~ 0
+COE0005 ~ Chemistry for Engineers 1 ~ 20232024 - 1 ~ TX02 ~ 3 ~ W/S ~ 11:00:00 - 13:00:00 ~ F701 ~ 12 ~ 40 ~ 0
+GED0001 ~ Specialized English Program 1 ~ 20232024 - 1 ~ TB01 ~ 3 ~ T/F ~ 11:00:00 - 13:00:00 ~ ONLINE ~ 27 ~ 40 ~ 0
+GED0001 ~ Specialized English Program 1 ~ 20232024 - 1 ~ TB02 ~ 3 ~ T/F ~ 11:00:00 - 13:00:00 ~ ONLINE ~ 28 ~ 40 ~ 0
+GED0004 ~ Physical Education 1 ~ 20232024 - 1 ~ TB01 ~ 3 ~ W ~ 13:00:00 - 15:00:00 ~ F301 ~ 22 ~ 40 ~ 0
+GED0004 ~ Physical Education 1 ~ 20232024 - 1 ~ TB02 ~ 3 ~ W ~ 13:00:00 - 15:00:00 ~ F301 ~ 23 ~ 40 ~ 0
+GED0006 ~ Personal and Professional Effectiveness ~ 20232024 - 1 ~ TB01 ~ 2 ~ M/TH ~ 11:00:00 - 13:00:00 ~ F703 ~ 27 ~ 40 ~ 0
+GED0006 ~ Personal and Professional Effectiveness ~ 20232024 - 1 ~ TB02 ~ 2 ~ M/TH ~ 11:00:00 - 13:00:00 ~ F703 ~ 28 ~ 40 ~ 0
+GED0007 ~ Art Appreciation ~ 20232024 - 1 ~ TB01 ~ 3 ~ T/F ~ 07:00:00 - 09:00:00 ~ ONLINE ~ 17 ~ 29 ~ 0
+GED0007 ~ Art Appreciation ~ 20232024 - 1 ~ TB02 ~ 3 ~ T/F ~ 09:00:00 - 11:00:00 ~ ONLINE ~ 17 ~ 29 ~ 0
+NSTP1 ~ Civil Welfare Training Service 1 ~ 20232024 - 1 ~ TB01 ~ 0 ~ TH ~ 07:00:00 - 11:00:00 ~ E606 ~ 30 ~ 40 ~ 0
+NSTP1 ~ Civil Welfare Training Service 1 ~ 20232024 - 1 ~ TB02 ~ 0 ~ TH ~ 07:00:00 - 11:00:00 ~ E606 ~ 31 ~ 40 ~ 0
+COE0001 ~ Engineering Mathematics 1 ~ 20232024 - 1 ~ TB01 ~ 3 ~ M/TH ~ 17:00:00 - 19:00:00 ~ F603 ~ 24 ~ 40 ~ 0
+COE0001 ~ Engineering Mathematics 1 ~ 20232024 - 1 ~ TB02 ~ 3 ~ M/TH ~ 15:00:00 - 17:00:00 ~ F604 ~ 25 ~ 40 ~ 0
+COE0003 ~ Engineering Mathematics 2 ~ 20232024 - 1 ~ TB01 ~ 3 ~ T/F ~ 13:00:00 - 15:00:00 ~ F603 ~ 26 ~ 40 ~ 0
+COE0003 ~ Engineering Mathematics 2 ~ 20232024 - 1 ~ TB02 ~ 3 ~ M/TH ~ 17:00:00 - 19:00:00 ~ F604 ~ 25 ~ 40 ~ 0
+COE0005 ~ Chemistry for Engineers 1 ~ 20232024 - 1 ~ TB01 ~ 3 ~ W/S ~ 11:00:00 - 13:00:00 ~ F701 ~ 26 ~ 40 ~ 0
+COE0005 ~ Chemistry for Engineers 1 ~ 20232024 - 1 ~ TB02 ~ 3 ~ W/S ~ 11:00:00 - 13:00:00 ~ F701 ~ 24 ~ 40 ~ 0
+CCS0001 ~ Introduction to Computing (LEC) ~ 20232024 - 1 ~ TS01 ~ 2 ~ F ~ 16:20:00 - 19:00:00 ~ ONLINE ~ 20 ~ 40 ~ 0
+CCS0001L ~ Introduction to Computing (LAB) ~ 20232024 - 1 ~ TS01 ~ 1 ~ M ~ 16:10:00 - 19:00:00 ~ F1202 ~ 20 ~ 40 ~ 0
+CCS0001 ~ Introduction to Computing (LEC) ~ 20232024 - 1 ~ TS02 ~ 2 ~ F ~ 16:20:00 - 19:00:00 ~ ONLINE ~ 21 ~ 40 ~ 0
+CCS0001L ~ Introduction to Computing (LAB) ~ 20232024 - 1 ~ TS02 ~ 1 ~ M ~ 16:10:00 - 19:00:00 ~ F1201 ~ 21 ~ 40 ~ 0
+CCS0003 ~ Computer Programming 1 (LEC) ~ 20232024 - 1 ~ TS01 ~ 2 ~ T ~ 16:20:00 - 19:00:00 ~ ONLINE ~ 21 ~ 40 ~ 0
+CCS0003L ~ Computer Programming 1 (LAB) ~ 20232024 - 1 ~ TS01 ~ 1 ~ TH ~ 16:10:00 - 19:00:00 ~ F1202 ~ 21 ~ 40 ~ 0
+CCS0003 ~ Computer Programming 1 (LEC) ~ 20232024 - 1 ~ TS02 ~ 2 ~ T ~ 16:20:00 - 19:00:00 ~ ONLINE ~ 20 ~ 40 ~ 0
+CCS0003L ~ Computer Programming 1 (LAB) ~ 20232024 - 1 ~ TS02 ~ 1 ~ TH ~ 16:10:00 - 19:00:00 ~ F1201 ~ 20 ~ 40 ~ 0
+GED0004 ~ Physical Education 1 ~ 20232024 - 1 ~ TS01 ~ 3 ~ T/F ~ 13:00:00 - 14:50:00 ~ ONLINE ~ 15 ~ 40 ~ 0
+GED0004 ~ Physical Education 1 ~ 20232024 - 1 ~ TS02 ~ 3 ~ T/F ~ 13:00:00 - 14:50:00 ~ ONLINE ~ 16 ~ 40 ~ 0
+GED0006 ~ Personal and Professional Effectiveness ~ 20232024 - 1 ~ TS01 ~ 2 ~ M/TH ~ 11:20:00 - 12:20:00 ~ F607 ~ 6 ~ 40 ~ 0
+GED0006 ~ Personal and Professional Effectiveness ~ 20232024 - 1 ~ TS02 ~ 2 ~ M/TH ~ 11:20:00 - 12:20:00 ~ F607 ~ 14 ~ 40 ~ 0
+GED0009 ~ Readings in Philippine History ~ 20232024 - 1 ~ TS01 ~ 3 ~ M/TH ~ 13:00:00 - 14:50:00 ~ F608 ~ 14 ~ 40 ~ 0
+GED0009 ~ Readings in Philippine History ~ 20232024 - 1 ~ TS02 ~ 3 ~ M/TH ~ 11:20:00 - 12:20:00 ~ F607 ~ 17 ~ 40 ~ 0
+GED0011 ~ Science,Technology,and Society ~ 20232024 - 1 ~ TS01 ~ 3 ~ T/F ~ 11:00:00 - 12:50:00 ~ ONLINE ~ 7 ~ 40 ~ 0
+GED0011 ~ Science,Technology,and Society ~ 20232024 - 1 ~ TS02 ~ 3 ~ T/F ~ 11:00:00 - 12:50:00 ~ ONLINE ~ 8 ~ 40 ~ 0
+CCS0005 ~ Introduction to Human Computer Interaction (LEC) ~ 20232024 - 2 ~ TS01 ~ 2 ~ F ~ 13:00:00 - 15:40:00 ~ ONLINE ~ 20 ~ 40 ~ 0
+CCS0005L ~ Introduction to Human Computer Interaction (LAB) ~ 20232024 - 2 ~ TS02 ~ 1 ~ W ~ 13:00:00 - 15:50:00 ~ E401 ~ 20 ~ 40 ~ 0
+CCS0005 ~ Introduction to Human Computer Interaction (LEC) ~ 20232024 - 2 ~ TS01 ~ 2 ~ F ~ 13:00:00 - 15:40:00 ~ ONLINE ~ 21 ~ 40 ~ 0
+CCS0005L ~ Introduction to Human Computer Interaction (LAB) ~ 20232024 - 2 ~ TS02 ~ 1 ~ W ~ 13:00:00 - 15:50:00 ~ E402 ~ 21 ~ 40 ~ 0
+CCS0007 ~ Computer Programming 2 (LEC) ~ 20232024 - 2 ~ TS01 ~ 2 ~ T ~ 13:00:00 - 15:40:00 ~ ONLINE ~ 21 ~ 40 ~ 0
+CCS0007L ~ Computer Programming 2 (LAB) ~ 20232024 - 2 ~ TS02 ~ 1 ~ TH ~ 13:00:00 - 15:50:00 ~ F1202 ~ 21 ~ 40 ~ 0
+CCS0007 ~ Computer Programming 2 (LEC) ~ 20232024 - 2 ~ TS01 ~ 2 ~ T ~ 13:00:00 - 15:40:00 ~ ONLINE ~ 20 ~ 40 ~ 0
+CCS0007L ~ Computer Programming 2 (LAB) ~ 20232024 - 2 ~ TS02 ~ 1 ~ TH ~ 13:00:00 - 15:50:00 ~ F1201 ~ 20 ~ 40 ~ 0
+GED0001 ~ Specialized English Program 1 ~ 20232024 - 2 ~ TS01 ~ 3 ~ M/W ~ 11:00:00 - 12:50:00 ~ F701 ~ 14 ~ 40 ~ 0
+GED0001 ~ Specialized English Program 1 ~ 20232024 - 2 ~ TS02 ~ 3 ~ M/W ~ 11:00:00 - 12:50:00 ~ F702 ~ 6 ~ 40 ~ 0
+GED0015 ~ Physical Education 2 ~ 20232024 - 2 ~ TS01 ~ 3 ~ T/F ~ 07:00:00 - 08:50:00 ~ ONLINE ~ 15 ~ 40 ~ 0
+GED0015 ~ Physical Education 2 ~ 20232024 - 2 ~ TS02 ~ 3 ~ T/F ~ 07:00:00 - 08:50:00 ~ ONLINE ~ 16 ~ 40 ~ 0
+GED0027 ~ Mathematics in the Modern World ~ 20232024 - 2 ~ TS01 ~ 3 ~ T/F ~ 09:00:00 - 10:50:00 ~ ONLINE ~ 8 ~ 40 ~ 0
+GED0027 ~ Mathematics in the Modern World ~ 20232024 - 2 ~ TS02 ~ 3 ~ T/F ~ 09:00:00 - 10:50:00 ~ ONLINE ~ 11 ~ 40 ~ 0
+GED0029 ~ Analytic Geometry With Calculus ~ 20232024 - 2 ~ TS01 ~ 3 ~ M/W ~ 07:00:00 - 08:50:00 ~ F607 ~ 9 ~ 40 ~ 0
+GED0029 ~ Analytic Geometry With Calculus ~ 20232024 - 2 ~ TS02 ~ 3 ~ M/W ~ 07:00:00 - 08:50:00 ~ F609 ~ 10 ~ 40 ~ 0
+NSTP1 ~ Civic Welfare Training Service 1 ~ 20232024 - 2 ~ TS01 ~ 0 ~ TH ~ 07:00:00 - 11:00:00 ~ E601 ~ 18 ~ 40 ~ 0
+NSTP1 ~ Civic Welfare Training Service 1 ~ 20232024 - 2 ~ TS02 ~ 0 ~ TH ~ 07:00:00 - 11:00:00 ~ E606 ~ 19 ~ 40 ~ 0
+GED0021 ~ Specialized English Program 2 ~ 20232024 - 2 ~ TX21 ~ 3 ~ M/TH ~ 09:00:00 - 10:50:00 ~ F607 ~ 6 ~ 40 ~ 0
+GED0021 ~ Specialized English Program 2 ~ 20232024 - 1 ~ TS21 ~ 3 ~ M/TH ~ 09:00:00 - 10:50:00 ~ F607 ~ 6 ~ 40 ~ 0
+CCS0021 ~ Information Management (LEC) ~ 20232024 - 1 ~ TS21 ~ 2 ~ T ~ 07:00:00 - 09:50:00 ~ ONLINE ~ 5 ~ 38 ~ 2
+CCS0021L ~ Information Management (LAB) ~ 20232024 - 1 ~ TS21 ~ 1 ~ F ~ 07:00:00 - 09:40:00 ~ ONLINE ~ 3 ~ 38 ~ 2
+GED0081 ~ College Physics 1 (LEC) ~ 20232024 - 1 ~ TS21 ~ 2 ~ F ~ 10:00:00 - 12:50:00 ~ ONLINE ~ 7 ~ 38 ~ 2
+GED0081L ~ College Physics 1 (LAB) ~ 20232024 - 1 ~ TS21 ~ 1 ~ W ~ 10:00:00 - 13:00:00 ~ F1002 ~ 8 ~ 38 ~ 2
+CS0003 ~ Computer Systems Architecture (LEC) ~ 20232024 - 1 ~ TS21 ~ 2 ~ T ~ 13:20:00 - 16:00:00 ~ ONLINE ~ 1 ~ 38 ~ 2
+CS0003L ~ Computer Systems Architecture (LAB) ~ 20232024 - 1 ~ TS21 ~ 1 ~ TH ~ 13:00:00 - 15:50:00 ~ E401 ~ 1 ~ 38 ~ 2
+CS0003 ~ Computer Systems Architecture (LEC) ~ 20232024 - 1 ~ TN21 ~ 2 ~ T/F ~ 07:00:00 - 09:00:00 ~ ONLINE ~ 1 ~ 40 ~ 0
+CS0001 ~ Discrete Structures 1 ~ 20232024 - 1 ~ TS21 ~ 3 ~ M/TH ~ 17:00:00 - 18:50:00 ~ F607 ~ 4 ~ 39 ~ 1
+GED0075 ~ Linear Algebra ~ 20232024 - 1 ~ TS21 ~ 3 ~ T/F ~ 15:00:00 - 17:00:00 ~ ONLINE ~ 10 ~ 40 ~ 0
+GED0075 ~ Linear Algebra ~ 20232024 - 1 ~ TS22 ~ 3 ~ M/TH ~ 15:00:00 - 17:00:00 ~ ONLINE ~ 10 ~ 40 ~ 0
+GED0075 ~ Linear Algebra ~ 20232024 - 1 ~ TS23 ~ 3 ~ T/F ~ 17:00:00 - 19:00:00 ~ ONLINE ~ 11 ~ 38 ~ 2
